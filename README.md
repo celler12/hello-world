@@ -1,2 +1,4 @@
 # hello-world
-example description for first git repository
+new code
+new text
+it's a new world
